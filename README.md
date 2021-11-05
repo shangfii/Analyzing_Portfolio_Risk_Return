@@ -16,3 +16,8 @@ numpy - for Math calculations
 
 matplotlib inline -  It allows us to add plots 
 
+# Installation Guide
+
+To use this notebook, install Jupyter lab Version 3.0.14 and Python 3.7
+
+Open the notebook in Jupyter lab and you can run the analysis.
