@@ -21,3 +21,7 @@ matplotlib inline -  It allows us to add plots
 To use this notebook, install Jupyter lab Version 3.0.14 and Python 3.7
 
 Open the notebook in Jupyter lab and you can run the analysis.
+
+# Analysis (Sample from notbook)
+
+![Rolling plot](https://github.com/shangfii/Analyzing_Portfolio_Risk_Return/blob/main/Screen%20Shot%202021-11-05%20at%2010.26.48%20PM.png)
